@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/logo.png" width="300" alt="PHP" /></a>
+  <img src="./assets/images/logo.png" width="300" alt="PHP" />
 </p>
 
 # AutoComplete_Oracle_PHP
@@ -41,6 +41,6 @@ INSERT INTO AUTO_COMPLETE (ID, NOME, CIDADE, UF) VALUES  (10,'PEDRO SOUSA','SÃO
 
 ## suporte
 ```bash
-WhatsApp: <i class="bi bi-telephone"></i> (85) 9 9150-8104
+WhatsApp: <img src="./assets/images/logo.png" width="22" alt="PHP" /> (85) 9 9150-8104
 Mail: geraldo@gpsoft.com.br
 ```
