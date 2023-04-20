@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/images/logo.png" width="300" alt="PHP" /></a>
+</p>
+
 # AutoComplete_Oracle_PHP
 Modelo de Auto-Complete usando Oracle e PHP via PDO
 
