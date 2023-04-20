@@ -3,7 +3,8 @@ Modelo de Auto-Complete usando Oracle e PHP via PDO
 
 ## Objetivo
 ```bash
-´Tela contendo 3 campos nome, cidade e uf, onde vc irá pesquisar pelo nome e irá trazer um autocomplete filtrando os nomes da tabela e recupeando o restante dos campos para serem tratados.
+´Tela contendo 3 campos nome, cidade e uf, onde vc irá pesquisar pelo nome e irá trazer um 
+autocomplete filtrando os nomes da tabela e recupeando o restante dos campos para serem tratados.
 
 Simples, básico e fácil!
 ```
@@ -13,7 +14,7 @@ Simples, básico e fácil!
 PHP, Oracle, PDO
 
 Tabela:
-CREATE TABLE TESTE.AUTO_COMPLETE (
+CREATE TABLE AUTO_COMPLETE (
 	ID INTEGER NULL,
 	NOME VARCHAR2(100) NULL,
 	CIDADE VARCHAR2(50) NULL,
