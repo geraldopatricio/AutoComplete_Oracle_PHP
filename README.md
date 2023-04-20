@@ -41,6 +41,6 @@ INSERT INTO AUTO_COMPLETE (ID, NOME, CIDADE, UF) VALUES  (10,'PEDRO SOUSA','SÃO
 
 ## suporte
 
-WhatsApp: <img src="./assets/images/w.png" width="22" alt="PHP" /> (85) 9 9150-8104
+<img src="./assets/images/w.png" width="22" alt="PHP" /> (85) 9 9150-8104 <br>
 Mail: geraldo@gpsoft.com.br
 
