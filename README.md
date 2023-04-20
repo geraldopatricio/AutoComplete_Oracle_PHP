@@ -41,6 +41,6 @@ INSERT INTO AUTO_COMPLETE (ID, NOME, CIDADE, UF) VALUES  (10,'PEDRO SOUSA','SÃO
 
 ## suporte
 ```bash
-WhatsApp: (85) 9 9150-8104
+WhatsApp: <i class="bi bi-telephone"></i> (85) 9 9150-8104
 Mail: geraldo@gpsoft.com.br
 ```
